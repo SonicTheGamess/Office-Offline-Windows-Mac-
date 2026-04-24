@@ -78,7 +78,7 @@ Estos son links de descarga directa de instaladores microsoft offline para Windo
 
 ---
 
-Estos links fueron extraidos de un foro de sopote de microsoft y fueron testeados a la fecha de publicación de este repositorio
+Estos links fueron extraidos de un foro de soporte de microsoft y fueron testeados a la fecha de publicación de este repositorio
 
 Enlance del foro de soporte de microsoft: 
 
