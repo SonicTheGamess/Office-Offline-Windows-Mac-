@@ -1,4 +1,7 @@
-# Office-Offline-Windows-Mac-
+# office offline collection
+
+Una colección entera de enlances para tu uso personal
+
 Estos son links de descarga directa de instaladores microsoft offline para Windows y Mac (.img/dmg)
 
 # REPOSITORIO DE INSTALADORES OFFLINE
