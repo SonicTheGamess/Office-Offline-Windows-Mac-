@@ -52,7 +52,7 @@ Estos son links de descarga directa de instaladores microsoft offline para Windo
 | Producto | Enlace (64-bit) |
 | :--- | :--- |
 | Office 2013 Professional | [Descargar](http://officecdn.microsoft.com/pr/39168D7E-077B-48E7-872C-B232C3E72675/media/en-US/ProfessionalRetail.img) |
-| Office 2013 Home and Student (.img) | [Descargar](http://officecdn.microsoft.com/pr/39168D7E-077B-48E7-872C-B232C3E72675/media/en-US/HomeStudentRetail.img) |
+| Office 2013 Home and Student | [Descargar](http://officecdn.microsoft.com/pr/39168D7E-077B-48E7-872C-B232C3E72675/media/en-US/HomeStudentRetail.img) |
 | Office 2013 Home and Business | [Descargar](http://officecdn.microsoft.com/sg/39168D7E-077B-48E7-872C-B232C3E72675/media/en-US/HomeBusinessRetail.img) |
 | Word 2013 | [Descargar](http://officecdn.microsoft.com/pr/39168D7E-077B-48E7-872C-B232C3E72675/media/en-US/WordRetail.img) |
 | Office 2013 Professional | [Descargar](https://officecdn.microsoft.com/pr/39168D7E-077B-48E7-872C-B232C3E72675/media/en-US/ProfessionalRetail.img) |
@@ -68,7 +68,7 @@ Estos son links de descarga directa de instaladores microsoft offline para Windo
 ## Mac
 | Producto | Enlace de Descarga |
 | :--- | :--- |
-| Office for mac 2011 FPP download | [Descargar](http://officecdn.microsoft.com/pr/MacOffice2011/en-US/MicrosoftOffice2011.dmg) |
+| Office for mac 2011 FPP | [Descargar](http://officecdn.microsoft.com/pr/MacOffice2011/en-US/MicrosoftOffice2011.dmg) |
 | Office 2021 Business Pro (Mac OSx) | [Descargar](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.53.21091200_BusinessPro_Installer.pkg) |
 | Office 2019 (Mac OSx) | [Descargar](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) |
 | Office for Mac 2011 FPP | [Descargar](https://officecdn.microsoft.com/pr/MacOffice2011/en-US/MicrosoftOffice2011.dmg) |
